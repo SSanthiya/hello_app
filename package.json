@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "hello_app",
   "private": true,
   "dependencies": {
@@ -12,4 +13,9 @@
   "devDependencies": {
     "webpack-dev-server": "^3.11.0"
   }
+=======
+  "name": "test_install",
+  "private": true,
+  "dependencies": {}
+>>>>>>> modify-README
 }
